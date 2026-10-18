@@ -26,5 +26,5 @@
 [![VK](https://img.shields.io/badge/VK-FFC0CB?style=for-the-badge&logo=vk&logoColor=000000)](https://vk.com/yullton1)
 [![Instagram](https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/yulltoni)
 
-
  ![push](https://raw.githubusercontent.com/yulyatokarevskaya-lab/yulyatokarevskaya-lab/main/push.jpg)
+ </div>
