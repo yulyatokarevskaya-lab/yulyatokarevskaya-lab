@@ -21,8 +21,17 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFC0CB?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/yulltoni)
-[![Email](https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:yulya.tokarevskaya@bk.ru)
+[![Email](https://img.shields.io/badge/mail.ru-FFC0CB?style=for-the-badge&logo=mail.ru&logoColor=000000)](mailto:yulya.tokarevskaya@bk.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/yulyatokarevskaya-lab)
 [![VK](https://img.shields.io/badge/VK-FFC0CB?style=for-the-badge&logo=vk&logoColor=000000)](https://vk.com/yullton1)
 [![Instagram](https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/yulltoni)
+
+</div>
+<div align="center">
+  
+  
+
+
+
+
 </div>
